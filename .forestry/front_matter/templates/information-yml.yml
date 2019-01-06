@@ -7,7 +7,7 @@ fields:
   label: Email
   type: text
   hidden: false
-  default: ''
+  default: marius.ciocanel@gmail.com
 - name: phone
   label: Phone
   type: text
