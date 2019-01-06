@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Guardwell Crescent Residents' Association (GCRA)
-date: ''
+date: 2019-01-01 00:00:00 +0000
 related_posts:
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
